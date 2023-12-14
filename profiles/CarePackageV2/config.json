@@ -1,0 +1,447 @@
+{
+    "Locations": [
+        {
+            "Name": "Krasnostav Airstrip",
+            "Location": [
+                11930,
+                12490
+            ],
+            "Accuracy": 25,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Northwest Airfield",
+            "Location": [
+                4500,
+                10350
+            ],
+            "Accuracy": 25,
+            "AllowedPackageIDs": [
+                1,3,4
+            ]
+        },
+        {
+            "Name": "Novaya Petrovka",
+            "Location": [
+                3448,
+                13039
+            ],
+            "Accuracy": 25,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Severograd",
+            "Location": [
+                8030,
+                12646
+            ],
+            "Accuracy": 25,
+            "AllowedPackageIDs": [
+                2
+            ]
+        },
+        {
+            "Name": "Stary/Novy",
+            "Location": [
+                6600,
+                7800
+            ],
+            "Accuracy": 25,
+            "AllowedPackageIDs": [
+                2
+            ]
+        },
+        {
+            "Name": "VMC",
+            "Location": [
+                4555,
+                8160
+            ],
+            "Accuracy": 25,
+            "AllowedPackageIDs": [
+                1,3,4 
+            ]
+        },
+        {
+            "Name": "Karmanovka",
+            "Location": [
+                12676, 
+                14663
+            ],
+            "Accuracy": 25,
+            "AllowedPackageIDs": [
+                2
+            ]
+        },
+        {
+            "Name": "Belaya Polyana",
+            "Location": [
+                14267,
+                14877
+            ],
+            "Accuracy": 25,
+            "AllowedPackageIDs": [
+                3
+            ]
+        },
+        {
+            "Name": "M B Kamensk",
+            "Location": [
+                8008,
+                14638
+            ],
+            "Accuracy": 25,
+            "AllowedPackageIDs": [
+                4
+            ]
+        },
+        {
+            "Name": "Tikhiyzaliv",
+            "Location": [
+                981,
+                2140
+            ],
+            "Accuracy": 25,
+            "AllowedPackageIDs": [
+                2
+            ]
+        },
+        {
+            "Name": "Zabolotye",
+            "Location": [
+                1155,
+                10039
+            ],
+            "Accuracy": 25,
+            "AllowedPackageIDs": [
+                3
+            ]
+        },
+        {
+            "Name": "Grozovoy Pass",
+            "Location": [
+                3330,
+                15164
+            ],
+            "Accuracy": 25,
+            "AllowedPackageIDs": [
+                1
+            ]
+        }
+    ],
+    "Packages": [
+        {
+            "Package_name": "Guns",
+            "object_type": "CarePackage_typhon",
+            "parachute_type": "ArmyParachute_typhon",
+            "MinWeapons": 3,
+            "MaxWeapons": 3,
+            "MinMiscItems": 1,
+            "MaxMiscItems": 5,
+            "AllowedPackageIDs": [
+                1
+            ],
+            "Items": [
+                {
+                    "Item": "BO_Mag_Delta5_10rnd",
+                    "MinQty": 5,
+                    "MaxQty": 10,
+                    "Attachments": []
+                },
+                {
+                    "Item": "BO_Mag_PKP_250rnd",
+                    "MinQty": 100,
+                    "MaxQty": 250,
+                    "Attachments": []
+                },
+                {
+                    "Item": "BO_Mag_OSV_5rnd",
+                    "MinQty": 1,
+                    "MaxQty": 5,
+                    "Attachments": []
+                },
+                {
+                    "Item": "BO_Mag_PKM_100rnd",
+                    "MinQty": 25,
+                    "MaxQty": 100,
+                    "Attachments": []
+                },
+                {
+                    "Item": "BO_Mag_AS50_10rnd",
+                    "MinQty": 1,
+                    "MaxQty": 10,
+                    "Attachments": []
+                },
+                {
+                    "Item": "BO_Mag_AX50_5rnd",
+                    "MinQty": 1,
+                    "MaxQty": 5,
+                    "Attachments": []
+                }
+            ],
+            "Weapons": [
+                {
+                    "Item": "BO_Delta5",
+                    "Attachments": [
+                        "BO_Mag_Delta5_10rnd"
+                    ]
+                },
+                {
+                    "Item": "BO_M40A1",
+                    "Attachments": []
+                },
+                {
+                    "Item": "BO_PKP_Black",
+                    "Attachments": [
+                        "BO_PKPScopeMount_Black",
+                        "BO_Mag_PKP_250rnd"
+                    ]
+                },
+                {
+                    "Item": "BO_OSV",
+                    "Attachments": [
+                        "BO_Mag_OSV_5rnd"
+                    ]
+                },
+                {
+                    "Item": "BO_M32_Black",
+                    "Attachments": []
+                },
+                {
+                    "Item": "BO_PKM",
+                    "Attachments": [
+                        "BO_Mag_PKM_100rnd"
+                    ]
+                },
+                {
+                    "Item": "BO_AS50",
+                    "Attachments": [
+                        "BO_Mag_AS50_10rnd"
+                    ]
+                },
+                {
+                    "Item": "BO_AX50",
+                    "Attachments": [
+                        "BO_Mag_AX50_5rnd"
+                    ]
+                }
+            ]
+        },
+        {
+            "Package_name": "Food",
+            "object_type": "CarePackage_red",
+            "parachute_type": "ArmyParachute_black_digital",
+            "MinWeapons": 0,
+            "MaxWeapons": 0,
+            "MinMiscItems": 9,
+            "MaxMiscItems": 9,
+            "AllowedPackageIDs": [
+                2
+            ],
+            "Items": [
+                {
+                    "Item": "BakedBeansCan_Opened",
+                    "MinQty": 400,
+                    "MaxQty": 400,
+                    "Attachments": []
+                },
+                {
+                    "Item": "PeachesCan_Opened",
+                    "MinQty": 400,
+                    "MaxQty": 400,
+                    "Attachments": []
+                },
+                {
+                    "Item": "PorkCan_Opened",
+                    "MinQty": 400,
+                    "MaxQty": 400,
+                    "Attachments": []
+                },
+                {
+                    "Item": "SpaghettiCan_Opened",
+                    "MinQty": 400,
+                    "MaxQty": 400,
+                    "Attachments": []
+                },
+                {
+                    "Item": "TacticalBaconCan_Opened",
+                    "MinQty": 400,
+                    "MaxQty": 400,
+                    "Attachments": []
+                },
+                {
+                    "Item": "UnknownFoodCan_Opened",
+                    "MinQty": 400,
+                    "MaxQty": 400,
+                    "Attachments": []
+                },
+                {
+                    "Item": "WaterBottle",
+                    "MinQty": 1000,
+                    "MaxQty": 1000,
+                    "Attachments": []
+                }
+            ],
+            "Weapons": []
+        },
+        {
+            "Package_name": "Ghillies",
+            "object_type": "CarePackage_red",
+            "parachute_type": "ArmyParachute_black_digital",
+            "MinWeapons": 0,
+            "MaxWeapons": 0,
+            "MinMiscItems": 4,
+            "MaxMiscItems": 4,
+            "AllowedPackageIDs": [
+                3
+            ],
+            "Items": [
+                {
+                    "Item": "GhillieHood_Mossy",
+                    "MinQty": 1,
+                    "MaxQty": 1,
+                    "Attachments": []
+                },
+                {
+                    "Item": "GhillieTop_Mossy",
+                    "MinQty": 1,
+                    "MaxQty": 1,
+                    "Attachments": []
+                },
+                {
+                    "Item": "GhillieAtt_Mossy",
+                    "MinQty": 1,
+                    "MaxQty": 1,
+                    "Attachments": []
+                },
+                {
+                    "Item": "GhillieHood_Woodland",
+                    "MinQty": 1,
+                    "MaxQty": 1,
+                    "Attachments": []
+                },
+                {
+                    "Item": "GhillieTop_Woodland",
+                    "MinQty": 1,
+                    "MaxQty": 1,
+                    "Attachments": []
+                },
+                {
+                    "Item": "GhillieAtt_Woodland",
+                    "MinQty": 1,
+                    "MaxQty": 1,
+                    "Attachments": []
+                }
+            ],
+            "Weapons": []
+        },
+        {
+            "Package_name": "Vests",
+            "object_type": "CarePackage_red",
+            "parachute_type": "ArmyParachute_black_digital",
+            "MinWeapons": 0,
+            "MaxWeapons": 0,
+            "MinMiscItems": 3,
+            "MaxMiscItems": 3,
+            "AllowedPackageIDs": [
+                4
+            ],
+            "Items": [
+                {
+                    "Item": "MVS_Combat_Vest_Heavy_ERDL",
+                    "MinQty": 1,
+                    "MaxQty": 1,
+                    "Attachments": [
+                        "MVS_Heavy_Pouch_ERDL",
+                        "MVS_Holster_ERDL",
+                        "MVS_Medical_Pouch_ERDL"
+                    ]
+                },
+                {
+                    "Item": "MVS_Combat_Vest_ERDL",
+                    "MinQty": 1,
+                    "MaxQty": 1,
+                    "Attachments": [
+                        "MVS_Taco_Pouch_ERDL",
+                        "MVS_Utility_Pouch_ERDL",
+                        "MVS_Medical_Pouch_ERDL"
+                    ]
+                },
+                {
+                    "Item": "MVS_ChestRig_ERDL",
+                    "MinQty": 1,
+                    "MaxQty": 1,
+                    "Attachments": [
+                        "MVS_Taco_Pouch_ERDL",
+                        "MVS_Utility_Pouch_ERDL",
+                        "MVS_Medical_Pouch_ERDL"
+                    ]
+                }
+            ],
+            "Weapons": []
+        }
+    ],
+    "InfectedTypes": [
+        "ZmbM_CitizenASkinny_Blue",
+        "ZmbM_CitizenASkinny_Brown",
+        "ZmbM_CitizenASkinny_Grey",
+        "ZmbM_MotobikerFat_Beige",
+        "ZmbM_MotobikerFat_Black",
+        "ZmbM_MotobikerFat_Blue",
+        "ZmbM_JoggerSkinny_Red",
+        "ZmbM_SkaterYoung_Blue",
+        "ZmbM_SkaterYoung_Brown",
+        "ZmbM_SkaterYoung_Green",
+        "ZmbM_SkaterYoung_Grey",
+        "ZmbM_ClerkFat_Brown",
+        "ZmbM_ClerkFat_Khaki",
+        "ZmbF_JournalistNormal_White",
+        "ZmbF_Clerk_Normal_White",
+        "ZmbF_CitizenANormal_Blue",
+        "ZmbF_CitizenBSkinny",
+        "ZmbF_HikerSkinny_Grey",
+        "ZmbF_SurvivorNormal_Orange",
+        "ZmbF_HikerSkinny_Green",
+        "ZmbF_JoggerSkinny_Green",
+        "ZmbF_SkaterYoung_Striped",
+        "ZmbF_BlueCollarFat_Red",
+        "ZmbF_MechanicNormal_Beige",
+        "ZmbF_PatientOld",
+        "ZmbF_ShortSkirt_beige",
+        "ZmbF_VillagerOld_Red",
+        "ZmbF_JoggerSkinny_Red",
+        "ZmbF_MilkMaidOld_Beige",
+        "ZmbF_VillagerOld_Green",
+        "ZmbF_ShortSkirt_yellow",
+        "ZmbF_NurseFat",
+        "ZmbF_PoliceWomanNormal",
+        "ZmbF_HikerSkinny_Blue",
+        "ZmbF_ParamedicNormal_Green",
+        "ZmbF_JournalistNormal_Red",
+        "ZmbF_SurvivorNormal_White",
+        "ZmbF_JoggerSkinny_Brown",
+        "ZmbF_MechanicNormal_Grey",
+        "ZmbF_BlueCollarFat_Green",
+        "ZmbF_DoctorSkinny"
+    ],
+    "MinutesBetweenPackages": 30,
+    "DropHeight": 200,
+    "DropTime": 2,
+    "PackageCallDelay": 4,
+    "MinutesAway": 2,
+    "MinimumPlayers": -1,
+    "PackagesBeingRan": 2,
+    "ZombiesToSpawn": 15,
+    "LocationHistoryCheckRange": 6,
+    "LootSpawnType": 0,
+    "LockPackages": 1,
+    "Title": "Air Drop",
+    "DroppedMessage": "The air drop has been deployed. ",
+    "StartMessage": "An air drop is on its way to ",
+    "MinutesAwayPrefix": "The air drop is ",
+    "MinutesAwaySuffix": " minutes away from "
+}

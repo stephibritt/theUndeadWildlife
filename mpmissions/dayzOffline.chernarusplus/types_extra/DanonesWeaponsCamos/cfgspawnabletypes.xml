@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+    <type name="M4Period">
+        <attachments chance="1.00">
+            <item name="M4_OEBttstck" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="M4_PlasticHndgrd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="M4_CarryHandleOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Mag_STANAG_30Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="M4Hyper">
+        <attachments chance="1.00">
+            <item name="M4_OEBttstck" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="M4_PlasticHndgrd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="M4_CarryHandleOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Mag_STANAG_30Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="M4Hyper2">
+        <attachments chance="1.00">
+            <item name="M4_OEBttstck" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="M4_PlasticHndgrd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="M4_CarryHandleOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Mag_STANAG_30Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="M4Danone">
+        <attachments chance="1.00">
+            <item name="M4_OEBttstck" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="M4_PlasticHndgrd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="M4_CarryHandleOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Mag_STANAG_30Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="M4Kryptek">
+        <attachments chance="1.00">
+            <item name="M4_OEBttstck" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="M4_PlasticHndgrd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="M4_CarryHandleOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Mag_STANAG_30Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="M4Ghosttex">
+        <attachments chance="1.00">
+            <item name="M4_OEBttstck" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="M4_PlasticHndgrd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="M4_CarryHandleOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Mag_STANAG_30Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="M4Girl">
+        <attachments chance="1.00">
+            <item name="M4_OEBttstck" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="M4_PlasticHndgrd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="M4_CarryHandleOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Mag_STANAG_30Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="M4Toxic">
+        <attachments chance="1.00">
+            <item name="M4_OEBttstck" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="M4_PlasticHndgrd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="M4_CarryHandleOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Mag_STANAG_30Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="M4Neko">
+        <attachments chance="1.00">
+            <item name="M4_OEBttstck" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="M4_PlasticHndgrd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="M4_CarryHandleOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Mag_STANAG_30Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="M4Urban">
+        <attachments chance="1.00">
+            <item name="M4_OEBttstck" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="M4_PlasticHndgrd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="M4_CarryHandleOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Mag_STANAG_30Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="M4Dollar">
+        <attachments chance="1.00">
+            <item name="M4_OEBttstck" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="M4_PlasticHndgrd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="M4_CarryHandleOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Mag_STANAG_30Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="M4Zef">
+        <attachments chance="1.00">
+            <item name="M4_OEBttstck" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="M4_PlasticHndgrd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="M4_CarryHandleOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Mag_STANAG_30Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="WinAsiimov">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="WinHyper">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="WinGhosttex">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="WinGirl">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="WinKryptek">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="WinNeko">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="WinToxic">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="WinUrban">
+        <attachments chance="1.00">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="SVDGhosttex">
+        <subcounter min="10" max="20" />
+        <attachments chance="1.00">
+            <item name="Mag_SVD_10Rnd" chance="1.00" />
+        </attachments>
+        <!-- PSO1Optic KashtanOptic  -->
+    </type>
+    <type name="SVDRed">
+        <subcounter min="10" max="20" />
+        <attachments chance="1.00">
+            <item name="Mag_SVD_10Rnd" chance="1.00" />
+        </attachments>
+        <!-- PSO1Optic KashtanOptic  -->
+    </type>
+    <type name="SVDGirl">
+        <subcounter min="10" max="20" />
+        <attachments chance="1.00">
+            <item name="Mag_SVD_10Rnd" chance="1.00" />
+        </attachments>
+        <!-- PSO1Optic KashtanOptic  -->
+    </type>
+    <type name="SVDToxic">
+        <subcounter min="10" max="20" />
+        <attachments chance="1.00">
+            <item name="Mag_SVD_10Rnd" chance="1.00" />
+        </attachments>
+        <!-- PSO1Optic KashtanOptic  -->
+    </type>
+    <type name="SVDHyper">
+        <subcounter min="10" max="20" />
+        <attachments chance="1.00">
+            <item name="Mag_SVD_10Rnd" chance="1.00" />
+        </attachments>
+        <!-- PSO1Optic KashtanOptic  -->
+    </type>
+    <type name="SVDKryptek">
+        <subcounter min="10" max="20" />
+        <attachments chance="1.00">
+            <item name="Mag_SVD_10Rnd" chance="1.00" />
+        </attachments>
+        <!-- PSO1Optic KashtanOptic  -->
+    </type>
+    <type name="SVDUrban">
+        <subcounter min="10" max="20" />
+        <attachments chance="1.00">
+            <item name="Mag_SVD_10Rnd" chance="1.00" />
+        </attachments>
+        <!-- PSO1Optic KashtanOptic  -->
+    </type>
+</spawnabletypes>

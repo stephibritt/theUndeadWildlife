@@ -1,0 +1,31 @@
+---------------------------------------------
+Log D:\SteamLibrary\steamapps\common\DayZServer\profiles\crash_2023-12-13_13-13-52.log started at 13.12. 13:35:20
+
+
+
+------------------------------------
+MSI, 13.12 2023 13:35:20
+NULL pointer to instance
+Class:      'ActionDeployObject'
+Function: 'OnEndServer'
+Stack trace:
+ModularVestSystem/scripts/4_World/armorrack_actiondeployobject.c:6
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:363
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:42
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles profiles mod @UW LS;@CF;@Basic Map;@VPPAdminTools;@Unlimited Stamina;@Autorun Mod;@Building Fortifications;@CJ187-SummerChernarus;@NatureOverhaul;@DinkyItems;@AmmunitionExpansion;@EDO_WEAPONS;@Code Lock;@MMG Base Storage;@Modular Vest System;@TerjePartyMod;@BuildEverywhere;@Care Packages V2;@BuilderItems;@Flying Birds!;@The Fallen;@WickedRV;@MMG - Mightys Military Gear;@MMG - Welliton Canvas Retexture;@MAD Animal Gear;@MAD Halloween Gear;@MAD Christmas Gear;@MAD Barrels;@MAD Flags;@MAD Tents;@Cookies food and drinks pack;@ArrakisPokiBalls;@CatchablePokemon;@Slot for SmershVest;@Slot for Ghillie;@MMG Country Camo Extension;@StreetLighting;@DanonesWeaponCamos;@MMG_Unum;@More-Grass-Bliss;@Paragon Storage;@GhillieFix cpuCount 2 dologs  adminlog  netlog  freezecheck  
+
+
+------------------------------------
+MSI, 13.12 2023 13:40:34
+NULL pointer to instance
+Class:      'ActionDeployObject'
+Function: 'OnEndServer'
+Stack trace:
+ModularVestSystem/scripts/4_World/armorrack_actiondeployobject.c:6
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:363
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:42
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles profiles mod @UW LS;@CF;@Basic Map;@VPPAdminTools;@Unlimited Stamina;@Autorun Mod;@Building Fortifications;@CJ187-SummerChernarus;@NatureOverhaul;@DinkyItems;@AmmunitionExpansion;@EDO_WEAPONS;@Code Lock;@MMG Base Storage;@Modular Vest System;@TerjePartyMod;@BuildEverywhere;@Care Packages V2;@BuilderItems;@Flying Birds!;@The Fallen;@WickedRV;@MMG - Mightys Military Gear;@MMG - Welliton Canvas Retexture;@MAD Animal Gear;@MAD Halloween Gear;@MAD Christmas Gear;@MAD Barrels;@MAD Flags;@MAD Tents;@Cookies food and drinks pack;@ArrakisPokiBalls;@CatchablePokemon;@Slot for SmershVest;@Slot for Ghillie;@MMG Country Camo Extension;@StreetLighting;@DanonesWeaponCamos;@MMG_Unum;@More-Grass-Bliss;@Paragon Storage;@GhillieFix cpuCount 2 dologs  adminlog  netlog  freezecheck  

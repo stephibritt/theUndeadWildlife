@@ -1,0 +1,202 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2023-11-29_20-6-46
+====================================================================================
+20:6:46 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+20:6:46 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+20:6:46 | [PermissionManager] Perm (FreeCamera) has been registered!
+20:6:46 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+20:6:46 | [PermissionManager] Perm (MenuItemManager) has been registered!
+20:6:46 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+20:6:46 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+20:6:46 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+20:6:46 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+20:6:46 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+20:6:46 | [PermissionManager] Perm (MenuServerManager) has been registered!
+20:6:46 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+20:6:46 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+20:6:46 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+20:6:46 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+20:6:46 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+20:6:46 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+20:6:46 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+20:6:46 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+20:6:46 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+20:6:46 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+20:6:46 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+20:6:46 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+20:6:46 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+20:6:46 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+20:6:46 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+20:6:46 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+20:6:46 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+20:6:46 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+20:6:46 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+20:6:46 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+20:6:46 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+20:6:46 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+20:6:46 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+20:6:46 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+20:6:46 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+20:6:46 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+20:6:46 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+20:6:46 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+20:6:46 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+20:6:46 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+20:6:46 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+20:6:46 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+20:6:46 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+20:6:46 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+20:6:46 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+20:6:46 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+20:6:46 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+20:6:46 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+20:6:46 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+20:6:46 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+20:6:46 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+20:6:46 | [PermissionManager] Perm (MenuBansManager) has been registered!
+20:6:46 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+20:6:46 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+20:6:46 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+20:6:46 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+20:6:46 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+20:6:46 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+20:6:46 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+20:6:46 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+20:6:46 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+20:6:46 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+20:6:46 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+20:6:46 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+20:6:46 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+20:6:46 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+20:6:46 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+20:6:46 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+20:6:46 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+20:6:46 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+20:6:46 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+20:6:46 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+20:6:46 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+20:6:46 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+20:6:46 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+20:6:46 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+20:6:46 | [PermissionManager] Adding Super Admin (76561198004438499)
+20:6:46 | [PermissionManager] Adding Super Admin (76561198409147443)
+20:6:46 | [PermissionManager] Adding Super Admin (76561198958650919)
+20:6:46 | [PermissionManager] Loaded UserGroups.json
+20:6:46 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+20:6:46 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+20:6:46 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+20:6:46 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+20:6:46 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+20:6:46 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+20:6:46 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+20:6:46 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+20:6:46 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+20:6:46 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+20:6:46 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+20:6:46 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+20:6:46 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+20:6:46 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+20:6:46 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+20:6:46 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+20:6:46 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+20:6:46 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+20:6:46 | Building Sets Loaded: 0
+20:6:46 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+20:6:46 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+20:7:26 | Player "Prometheus" (steamId=76561198958650919) connected to server!
+20:8:24 | "Prometheus" (steamid=76561198958650919) Spawned Item: (GhillieHood_Woodland)
+20:8:27 | "Prometheus" (steamid=76561198958650919) Spawned Item: (GhillieAtt_Woodland)
+20:8:29 | "Prometheus" (steamid=76561198958650919) Spawned Item: (GhillieBushrag_Woodland)
+20:8:30 | "Prometheus" (steamid=76561198958650919) Spawned Item: (GhillieTop_Woodland)
+20:8:31 | "Prometheus" (steamid=76561198958650919) Spawned Item: (GhillieSuit_Woodland)
+20:9:0 | Player "Foxy DJ" (steamId=76561198004438499) connected to server!
+20:9:35 | Player "Survivor" (steamId=76561198409147443) connected to server!
+20:9:54 | "Foxy DJ" (steamid=76561198004438499) toggled godmode
+20:10:9 | "Prometheus" (steamid=76561198958650919) Spawned Item: (GhillieAtt_Woodland)
+20:10:38 | "Prometheus" (steamid=76561198958650919) toggled godmode
+20:12:43 | "Foxy DJ" (steamid=76561198004438499) Spawned Item: (GhillieBushrag_Tan)
+20:12:45 | "Foxy DJ" (steamid=76561198004438499) Spawned Item: (GhillieBushrag_Woodland)
+20:12:46 | "Foxy DJ" (steamid=76561198004438499) Spawned Item: (GhillieBushrag_Woodland)
+20:12:50 | "Foxy DJ" (steamid=76561198004438499) Spawned Item: (GhillieBushrag_Mossy)
+20:13:17 | "Foxy DJ" (steamid=76561198004438499) Spawned Item: (GhillieTop_Mossy)
+20:13:30 | "Foxy DJ" (steamid=76561198004438499) Spawned Item: (GhillieSuit_Tan)
+20:13:48 | "Foxy DJ" (steamid=76561198004438499) Spawned Item: (GhillieSuit_Woodland)
+20:14:17 | "Prometheus" (steamid=76561198958650919) started to spectate player: "76561198409147443"
+20:15:33 | "Foxy DJ" (steamid=76561198004438499) Spawned Item: (GhillieSuit_Mossy)
+20:18:20 | "Foxy DJ" (steamid=76561198004438499) Spawned Item: (GhillieTop_Mossy)
+20:18:40 | "Survivor" (steamid=76561198409147443) toggled godmode
+20:19:39 | Player "Prometheus" (steamId=76561198958650919) connected to server!
+20:19:52 | "Prometheus" (steamid=76561198958650919) toggled freecam
+20:19:53 | "Prometheus" (steamid=76561198958650919) toggled freecam
+20:20:0 | "Prometheus" (steamid=76561198958650919) toggled freecam
+20:20:3 | "Prometheus" (steamid=76561198958650919) teleported to crosshair (pos=<10833.195313, 14.017216, 2702.016846>)
+20:20:4 | "Prometheus" (steamid=76561198958650919) toggled freecam
+20:20:32 | "Survivor" (steamid=76561198409147443) teleported to crosshair (pos=<12630.583984, 45.231743, 5719.662598>)
+20:20:33 | "Prometheus" (steamid=76561198958650919) teleported to crosshair (pos=<10811.908203, 11.359416, 2652.536133>)
+20:20:37 | "Prometheus" (steamid=76561198958650919) deleted object "GhillieBushrag_Woodland" (pos=<10811.506836, 12.014421, 2649.135986>)
+20:21:5 | "Survivor" (steamid=76561198409147443) Spawned Item: (CP_Evee_wolf)
+20:21:26 | "Foxy DJ" (steamid=76561198004438499) Spawned Item: (BBP_Xmas_Tree)
+20:22:23 | "Foxy DJ" (steamid=76561198004438499) Spawned Item: (GhillieTop_Tan)
+20:22:31 | "Foxy DJ" (steamid=76561198004438499) Spawned Item: (GhillieTop_Woodland)
+20:22:32 | "Foxy DJ" (steamid=76561198004438499) Spawned Item: (GhillieTop_Mossy)
+20:23:54 | "Foxy DJ" (steamid=76561198004438499) Spawned Item: (MMG_MK_III_Armor_canvas)
+20:23:56 | "Foxy DJ" (steamid=76561198004438499) Spawned Item: (MMG_falcon_b1_belt_canvas)
+20:23:59 | "Foxy DJ" (steamid=76561198004438499) Spawned Item: (MMG_assault_pack_canvas)
+20:25:8 | "Survivor" (steamid=76561198409147443) teleported to crosshair (pos=<12646.589844, 44.542938, 5684.964844>)
+20:25:9 | "Survivor" (steamid=76561198409147443) teleported to crosshair (pos=<12642.881836, 44.729652, 5697.915527>)
+20:25:10 | "Survivor" (steamid=76561198409147443) teleported to crosshair (pos=<12638.988281, 44.958942, 5711.535156>)
+20:25:27 | "Foxy DJ" (steamid=76561198004438499) Spawned Item: (MMG_MK_V_Armor_dark_woodland)
+20:25:49 | "Foxy DJ" (steamid=76561198004438499) Spawned Item: (MMG_tactical_shirt_canvas)
+20:25:49 | "Foxy DJ" (steamid=76561198004438499) Spawned Item: (MMG_tactical_shirt_canvas)
+20:25:50 | "Foxy DJ" (steamid=76561198004438499) Spawned Item: (MMG_combatpants_canvas)
+20:26:57 | "76561198004438499" (steamid=76561198004438499) teleported to (pos=<4195.270020, 338.410004, 11055.000000>)
+20:26:57 | "Foxy DJ": (steamid=76561198004438499) teleported to (pos=4195.27,0,11055)
+20:26:57 | "76561198004438499" (steamid=76561198004438499) teleported to (pos=<4195.270020, 338.410004, 11055.000000>)
+20:26:57 | "Foxy DJ": (steamid=76561198004438499) teleported to (pos=4195.27,0,11055)
+20:27:20 | "Prometheus" (steamid=76561198958650919) started to spectate player: "76561198409147443"
+20:27:24 | "Survivor" (steamid=76561198409147443) deleted object "GhillieTop_Mossy" (pos=<12634.605469, 45.400372, 5719.960938>)
+20:27:30 | "Survivor" (steamid=76561198409147443) deleted object "CP_Evee_wolf" (pos=<12630.000000, 45.097633, 5716.007813>)
+20:28:37 | "76561198409147443" (steamid=76561198409147443) teleported to (pos=<4230.520020, 338.410004, 11051.900391>)
+20:28:37 | "Survivor": (steamid=76561198409147443) teleported to (pos=4230.52,0,11051.9)
+20:29:19 | "Survivor" (steamid=76561198409147443) teleported to crosshair (pos=<4220.730957, 338.410034, 11098.270508>)
+20:29:19 | "Survivor" (steamid=76561198409147443) teleported to crosshair (pos=<4221.686035, 338.410004, 11112.750000>)
+20:29:59 | "Survivor" (steamid=76561198409147443) teleported to crosshair (pos=<4207.646973, 338.410004, 11093.271484>)
+20:30:17 | "Survivor" (steamid=76561198409147443) /heal used on: "Survivor" (steamid=76561198409147443)
+20:30:18 | "Survivor" (steamid=76561198409147443) /heal used on: "Survivor" (steamid=76561198409147443)
+20:32:13 | "Survivor" (steamid=76561198409147443) teleported to crosshair (pos=<4228.878906, 338.409973, 11069.809570>)
+20:32:14 | "Survivor" (steamid=76561198409147443) teleported to crosshair (pos=<4232.033691, 338.410004, 11059.119141>)
+20:32:17 | "Survivor" (steamid=76561198409147443) teleported to crosshair (pos=<4233.703613, 338.505188, 11040.091797>)
+20:32:19 | "Survivor" (steamid=76561198409147443) teleported to crosshair (pos=<4231.002930, 338.399597, 11024.325195>)
+20:32:58 | "76561198004438499" (steamid=76561198004438499) teleported to (pos=<1520.540039, 438.993042, 13581.200195>)
+20:32:58 | "Foxy DJ": (steamid=76561198004438499) teleported to (pos=1520.54,0,13581.2)
+20:32:59 | "76561198004438499" (steamid=76561198004438499) teleported to (pos=<1520.540039, 438.993042, 13581.200195>)
+20:32:59 | "Foxy DJ": (steamid=76561198004438499) teleported to (pos=1520.54,0,13581.2)
+20:34:55 | "76561198004438499" (steamid=76561198004438499) teleported to (pos=<14043.200195, 10.099007, 13161.000000>)
+20:34:55 | "Foxy DJ": (steamid=76561198004438499) teleported to (pos=14043.2,0,13161)
+20:36:50 | "76561198409147443" (steamid=76561198409147443) teleported to (pos=<13915.799805, 19.256393, 13216.200195>)
+20:36:50 | "Survivor": (steamid=76561198409147443) teleported to (pos=13915.8,0,13216.2)
+20:37:19 | "Survivor" (steamid=76561198409147443) teleported to crosshair (pos=<13923.816406, 19.194393, 13221.672852>)
+20:37:21 | "Survivor" (steamid=76561198409147443) teleported to crosshair (pos=<13897.212891, 19.749691, 13214.883789>)
+20:37:22 | "Survivor" (steamid=76561198409147443) teleported to crosshair (pos=<13889.007813, 20.057533, 13229.663086>)
+20:37:23 | "Survivor" (steamid=76561198409147443) teleported to crosshair (pos=<13881.192383, 20.192667, 13242.865234>)
+20:37:58 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<13915.641602, 20.889931, 13245.504883>)
+20:38:0 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<13910.849609, 21.864706, 13250.505859>)
+20:38:4 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<13907.715820, 20.410084, 13251.370117>)
+20:38:5 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<13907.576172, 20.719694, 13251.148438>)
+20:38:5 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<13907.690430, 21.312744, 13251.330078>)
+20:38:20 | "Survivor" (steamid=76561198409147443) teleported to crosshair (pos=<13876.382813, 21.529175, 13233.495117>)
+20:38:22 | "Survivor" (steamid=76561198409147443) teleported to crosshair (pos=<13878.553711, 20.039675, 13219.958984>)
+20:39:4 | "Survivor" (steamid=76561198409147443) teleported to crosshair (pos=<13912.590820, 19.222870, 13225.050781>)
+20:39:34 | "Survivor" (steamid=76561198409147443) teleported to crosshair (pos=<13914.981445, 19.753208, 13187.146484>)
+20:42:36 | "Foxy DJ" (steamid=76561198004438499) Spawned Item: (Doggo_Follow)
+20:42:37 | "Foxy DJ" (steamid=76561198004438499) Spawned Item: (Doggo_Stay)
+20:42:38 | "Foxy DJ" (steamid=76561198004438499) Spawned Item: (Doggo_Stay)
+20:42:38 | "Foxy DJ" (steamid=76561198004438499) Spawned Item: (Doggo_Patrol)
+20:42:39 | "Foxy DJ" (steamid=76561198004438499) Spawned Item: (Doggo_Patrol)
+20:42:49 | "Survivor" (steamid=76561198409147443) teleported to crosshair (pos=<13930.285156, 19.549652, 13200.416992>)
+20:42:49 | "Survivor" (steamid=76561198409147443) teleported to crosshair (pos=<13934.158203, 19.159996, 13220.046875>)
+20:42:50 | "Survivor" (steamid=76561198409147443) teleported to crosshair (pos=<13937.509766, 19.131241, 13236.768555>)
+20:42:50 | "Survivor" (steamid=76561198409147443) teleported to crosshair (pos=<13940.709961, 19.177420, 13252.660156>)
+20:42:51 | "Survivor" (steamid=76561198409147443) teleported to crosshair (pos=<13947.006836, 18.449747, 13272.961914>)
+20:43:16 | "Survivor" (steamid=76561198409147443) toggled godmode
+20:43:32 | "Survivor" (steamid=76561198409147443) toggled godmode

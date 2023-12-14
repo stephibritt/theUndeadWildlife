@@ -1,0 +1,24 @@
+---------------------------------------------
+Log D:\SteamLibrary\steamapps\common\DayZServer\profiles\crash_2023-12-13_12-10-11.log started at 13.12. 12:20:24
+
+
+
+------------------------------------
+MSI, 13.12 2023 12:20:24
+NULL pointer to instance
+Function: 'BuildList'
+Stack trace:
+VPPAdminTools/3_Game/vppadmintools\playerlist\playerlist.c:253
+VPPAdminTools/3_Game/vppadmintools\playerlist\playerlist.c:296
+VPPAdminTools/3_Game/vppadmintools\playerlist\playerlist.c:224
+VPPAdminTools/5_Mission/vppadmintools\missionserver.c:482
+VPPAdminTools/5_Mission/vppadmintools\missionserver.c:264
+scripts/5_Mission/mission\missionserver.c:243
+scripts/5_Mission/mission\missionserver.c:98
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:58
+scripts/3_Game/dayzgame.c:2817
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:211
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles profiles mod @UW LS;@CF;@Basic Map;@VPPAdminTools;@Unlimited Stamina;@Autorun Mod;@Building Fortifications;@CJ187-SummerChernarus;@NatureOverhaul;@DinkyItems;@AmmunitionExpansion;@EDO_WEAPONS;@Code Lock;@MMG Base Storage;@Modular Vest System;@TerjePartyMod;@BuildEverywhere;@Care Packages V2;@BuilderItems;@Flying Birds!;@The Fallen;@WickedRV;@MMG - Mightys Military Gear;@MMG - Welliton Canvas Retexture;@MAD Animal Gear;@MAD Halloween Gear;@MAD Christmas Gear;@MAD Barrels;@MAD Flags;@MAD Tents;@Cookies food and drinks pack;@ArrakisPokiBalls;@CatchablePokemon;@Slot for SmershVest;@Slot for Ghillie;@MMG Country Camo Extension;@StreetLighting;@DanonesWeaponCamos;@MMG_Unum;@More-Grass-Bliss;@Paragon Storage;@GhillieFix cpuCount 2 dologs  adminlog  netlog  freezecheck  

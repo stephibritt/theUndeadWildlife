@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="4291611852">
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="4822.5" z="13657.5" r="60"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="4897.5" z="13815" r="60"/>
+        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="6030" z="13485" r="45"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6997.5" z="12127.5" r="232.5"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7477.5" z="11970" r="180"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="6960" z="12105" r="292.5"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="7462.5" z="11970" r="217.5"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="6457.5" z="12210" r="210"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="5415" z="13387.5" r="172.5"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="7612.5" z="11137.5" r="157.5"/>
+    </territory>
+</territory-type>

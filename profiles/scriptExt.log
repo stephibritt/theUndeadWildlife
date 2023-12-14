@@ -1,0 +1,38 @@
+12-13 12:11:12 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<8990c8e0>
+12-13 12:11:12 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<53fdf010>
+12-13 12:13:29 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<8990c8e0>
+12-13 12:13:29 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<f6c28020>
+12-13 12:15:35 | Server | Debug | Connect | n/a | n/a | InvokeOnDisconnect:CustomMission<8990c8e0>
+12-13 12:15:35 | Server | Debug | Connect | n/a | n/a | Player disconnected:SurvivorBase<53fdf010>
+12-13 12:15:35 | Server | Debug | n/a | n/a | n/a | Player SurvivorBase<53fdf010> saved as alive
+12-13 12:20:24 | Server | Debug | Connect | n/a | n/a | InvokeOnDisconnect:CustomMission<8990c8e0>
+12-13 12:20:24 | Server | Debug | Connect | n/a | n/a | Player disconnected:SurvivorBase<f6c28020>
+12-13 12:20:24 | Server | Debug | n/a | n/a | n/a | Player SurvivorBase<f6c28020> saved as alive
+12-13 12:26:06 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<8990c8e0>
+12-13 12:26:06 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<53cc5560>
+12-13 12:26:28 | Server | Debug | Connect | n/a | n/a | InvokeOnDisconnect:CustomMission<8990c8e0>
+12-13 12:26:28 | Server | Debug | Connect | n/a | n/a | Player disconnected:SurvivorBase<53cc5560>
+12-13 12:26:28 | Server | Debug | n/a | n/a | n/a | Player SurvivorBase<53cc5560> saved as alive
+12-13 12:53:14 | Server | Debug | n/a | n/a | n/a | Chernarus::Weather::Fog:: (9.01219) 0
+12-13 12:53:55 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<65e3c60>
+12-13 12:53:55 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<4b0b5030>
+12-13 12:55:31 | Server | Debug | n/a | n/a | n/a | Chernarus::Weather::Rain::ForceEnd:: (9.14746) 0 -> 0
+12-13 12:56:30 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<65e3c60>
+12-13 12:56:30 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<58319160>
+12-13 12:58:31 | Server | Debug | n/a | n/a | n/a | Chernarus::Weather::Rain::ForceEnd:: (9.32718) 0 -> 0
+12-13 13:01:31 | Server | Debug | n/a | n/a | n/a | Chernarus::Weather::Rain::ForceEnd:: (9.50691) 0 -> 0
+12-13 13:04:30 | Server | Debug | n/a | n/a | n/a | Chernarus::Weather::Rain::ForceEnd:: (9.68662) 0 -> 0
+12-13 13:05:45 | Server | Debug | n/a | n/a | n/a | Chernarus::Weather::Overcast:: (9.76135) overcast: 0
+12-13 13:05:45 | Server | Debug | n/a | n/a | n/a | Chernarus::Weather::Overcast::Rain:: (9.76135) 0
+12-13 13:07:27 | Server | Debug | Connect | n/a | n/a | InvokeOnDisconnect:CustomMission<65e3c60>
+12-13 13:07:27 | Server | Debug | Connect | n/a | n/a | Player disconnected:SurvivorBase<4b0b5030>
+12-13 13:07:27 | Server | Debug | n/a | n/a | n/a | Player SurvivorBase<4b0b5030> saved as alive
+12-13 13:07:30 | Server | Debug | n/a | n/a | n/a | Chernarus::Weather::Rain::ForceEnd:: (9.86633) 0 -> 0
+12-13 13:08:22 | Server | Debug | n/a | n/a | n/a | Chernarus::Weather::Fog:: (9.91807) 0.0614368
+12-13 13:10:30 | Server | Debug | n/a | n/a | n/a | Chernarus::Weather::Rain::ForceEnd:: (10.046) 0 -> 0
+12-13 13:15:53 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<89f6d6a0>
+12-13 13:15:53 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<cac8c020>
+12-13 13:17:06 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<89f6d6a0>
+12-13 13:17:06 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<f6daef20>
+12-13 13:19:26 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<89f6d6a0>
+12-13 13:19:26 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<c4360bc0>

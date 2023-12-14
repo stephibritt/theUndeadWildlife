@@ -1,0 +1,218 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2023-12-4_17-31-18
+====================================================================================
+17:31:18 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+17:31:18 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+17:31:18 | [PermissionManager] Perm (FreeCamera) has been registered!
+17:31:18 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+17:31:18 | [PermissionManager] Perm (MenuItemManager) has been registered!
+17:31:18 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+17:31:18 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+17:31:18 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+17:31:18 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+17:31:18 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+17:31:18 | [PermissionManager] Perm (MenuServerManager) has been registered!
+17:31:18 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+17:31:18 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+17:31:18 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+17:31:18 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+17:31:18 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+17:31:18 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+17:31:18 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+17:31:18 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+17:31:18 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+17:31:18 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+17:31:18 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+17:31:18 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+17:31:18 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+17:31:18 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+17:31:18 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+17:31:18 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+17:31:18 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+17:31:18 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+17:31:18 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+17:31:18 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+17:31:18 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+17:31:18 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+17:31:18 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+17:31:18 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+17:31:18 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+17:31:18 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+17:31:18 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+17:31:18 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+17:31:18 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+17:31:18 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+17:31:18 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+17:31:18 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+17:31:18 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+17:31:18 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+17:31:18 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+17:31:18 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+17:31:18 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+17:31:18 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+17:31:18 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+17:31:18 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+17:31:18 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+17:31:18 | [PermissionManager] Perm (MenuBansManager) has been registered!
+17:31:18 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+17:31:18 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+17:31:18 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+17:31:18 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+17:31:18 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+17:31:18 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+17:31:18 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+17:31:18 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+17:31:18 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+17:31:18 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+17:31:18 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+17:31:18 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+17:31:18 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+17:31:18 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+17:31:18 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+17:31:18 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+17:31:18 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+17:31:18 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+17:31:18 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+17:31:18 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+17:31:18 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+17:31:18 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+17:31:18 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+17:31:18 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+17:31:18 | [PermissionManager] Adding Super Admin (76561198004438499)
+17:31:18 | [PermissionManager] Adding Super Admin (76561198409147443)
+17:31:18 | [PermissionManager] Adding Super Admin (76561198958650919)
+17:31:18 | [PermissionManager] Loaded UserGroups.json
+17:31:18 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+17:31:18 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+17:31:18 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+17:31:18 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+17:31:18 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+17:31:18 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+17:31:18 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+17:31:18 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+17:31:18 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+17:31:18 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+17:31:18 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+17:31:18 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+17:31:18 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+17:31:18 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+17:31:18 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+17:31:18 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+17:31:18 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+17:31:18 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+17:31:18 | Building Sets Loaded: 0
+17:31:18 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+17:31:18 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+17:32:16 | Player "Prometheus" (steamId=76561198958650919) connected to server!
+17:33:41 | "Prometheus" (steamid=76561198958650919) just updated a health stat on (steamid=76561198958650919)
+17:33:42 | "Prometheus" (steamid=76561198958650919) just updated a health stat on (steamid=76561198958650919)
+17:33:52 | "Prometheus" (steamid=76561198958650919) just updated a health stat on (steamid=76561198958650919)
+17:33:53 | "Prometheus" (steamid=76561198958650919) just updated a health stat on (steamid=76561198958650919)
+17:38:43 | Player "Prometheus" (steamId=76561198958650919) initiated disconnect process...
+17:38:47 | Player "Prometheus" (steamId=76561198958650919) disconnected early from server (EXIT NOW).
+17:49:50 | Player "Prometheus" (steamId=76561198958650919) connected to server!
+17:51:42 | Player "Prometheus" (steamId=76561198958650919) initiated disconnect process...
+17:51:44 | Player "Prometheus" (steamId=76561198958650919) disconnected early from server (EXIT NOW).
+18:2:36 | Player "Survivor" (steamId=76561198409147443) connected to server!
+18:2:54 | "Survivor" (steamid=76561198409147443) toggled godmode
+18:3:54 | "Survivor" (steamid=76561198409147443) toggled freecam
+18:6:39 | Player "Foxy DJ" (steamId=76561198004438499) connected to server!
+18:6:58 | "Foxy DJ" (steamid=76561198004438499) toggled godmode
+18:7:43 | "Survivor" (steamid=76561198409147443) Spawned Item: (MMG_assault_pack_UNUM_Purple)
+18:7:45 | "Survivor" (steamid=76561198409147443) Spawned Item: (MMG_camelback_UNUM_Purple)
+18:7:50 | "Survivor" (steamid=76561198409147443) Spawned Item: (MMG_mmps_bag_UNUM_Purple)
+18:7:52 | "Survivor" (steamid=76561198409147443) Spawned Item: (MMG_carrier_backpack_UNUM_Purple)
+18:7:55 | "Survivor" (steamid=76561198409147443) Spawned Item: (MMG_facemask_UNUM_Purple)
+18:7:55 | "Survivor" (steamid=76561198409147443) Spawned Item: (MMG_facemask_UNUM_Purple)
+18:7:57 | "Survivor" (steamid=76561198409147443) Spawned Item: (MMG_holster_pouch_UNUM_Purple)
+18:7:59 | "Survivor" (steamid=76561198409147443) Spawned Item: (MMG_ammo_pouch_UNUM_Purple)
+18:8:1 | "Survivor" (steamid=76561198409147443) Spawned Item: (MMG_Med_Pouch_UNUM_Purple)
+18:8:2 | "Survivor" (steamid=76561198409147443) Spawned Item: (MMG_double_magpouch_UNUM_Purple)
+18:8:4 | "Survivor" (steamid=76561198409147443) Spawned Item: (MMG_triple_magpouch_UNUM_Purple)
+18:8:5 | "Survivor" (steamid=76561198409147443) Spawned Item: (MMG_tactical_pouch_UNUM_Purple)
+18:8:6 | "Survivor" (steamid=76561198409147443) Spawned Item: (MMG_Mag_Pouch_UNUM_Purple)
+18:8:6 | "Survivor" (steamid=76561198409147443) Spawned Item: (MMG_Mag_Pouch_UNUM_Purple)
+18:8:8 | "Survivor" (steamid=76561198409147443) Spawned Item: (MMG_mk5_utility_pouch_UNUM_Purple)
+18:8:9 | "Survivor" (steamid=76561198409147443) Spawned Item: (MMG_mk5_grenade_pouch_UNUM_Purple)
+18:8:9 | "Survivor" (steamid=76561198409147443) Spawned Item: (MMG_mk5_grenade_pouch_UNUM_Purple)
+18:8:10 | "Survivor" (steamid=76561198409147443) Spawned Item: (MMG_tactical_shirt_UNUM_Purple)
+18:8:10 | "Survivor" (steamid=76561198409147443) Spawned Item: (MMG_tactical_shirt_UNUM_Purple)
+18:8:11 | "Survivor" (steamid=76561198409147443) Spawned Item: (MMG_operatorshirt_UNUM_Purple)
+18:8:13 | "Survivor" (steamid=76561198409147443) Spawned Item: (mmg_tactical_pants_UNUM_Purple)
+18:8:16 | "Survivor" (steamid=76561198409147443) Spawned Item: (mmg_chestrig_UNUM_Purple)
+18:8:17 | "Survivor" (steamid=76561198409147443) Spawned Item: (MMG_MK_III_Armor_UNUM_Purple)
+18:8:18 | "Survivor" (steamid=76561198409147443) Spawned Item: (MMG_JPC_Vest_UNUM_Purple)
+18:8:20 | "Survivor" (steamid=76561198409147443) Spawned Item: (MMG_MK_V_Armor_UNUM_Purple)
+18:8:21 | "Survivor" (steamid=76561198409147443) Spawned Item: (MMG_tt_vest_UNUM_Purple)
+18:8:25 | "Survivor" (steamid=76561198409147443) Spawned Item: (mmg_armored_helmet_UNUM_Purple)
+18:8:25 | "Survivor" (steamid=76561198409147443) Spawned Item: (mmg_armored_helmet_UNUM_Purple)
+18:8:26 | "Survivor" (steamid=76561198409147443) Spawned Item: (MMG_ballistic_earcover_UNUM_Purple)
+18:8:27 | "Survivor" (steamid=76561198409147443) Spawned Item: (MMG_ballistic_earcover_UNUM_Purple)
+18:8:29 | "Survivor" (steamid=76561198409147443) Spawned Item: (MMG_ballistic_earcover_UNUM_Purple)
+18:8:31 | "Survivor" (steamid=76561198409147443) Spawned Item: (MMG_headphones_UNUM_Purple)
+18:8:33 | "Survivor" (steamid=76561198409147443) Spawned Item: (MMG_headphones_UNUM_Purple)
+18:8:35 | "Survivor" (steamid=76561198409147443) Spawned Item: (MMG_striker_helmet_UNUM_Purple)
+18:8:36 | "Survivor" (steamid=76561198409147443) Spawned Item: (mmg_armored_helmet_visor_UNUM_Purple)
+18:8:38 | "Survivor" (steamid=76561198409147443) Spawned Item: (mmg_armored_helmet_visor_UP_UNUM_Purple)
+18:9:35 | "Survivor" (steamid=76561198409147443) toggled freecam
+18:10:21 | "Foxy DJ" (steamid=76561198004438499) toggled freecam
+18:10:35 | "Foxy DJ" (steamid=76561198004438499) toggled freecam
+18:11:28 | "Survivor" (steamid=76561198409147443) deleted object "MAD_Animal_Pants_PinkLeopard" (pos=<12109.176758, 6.312092, 3496.163330>)
+18:14:13 | "Foxy DJ" (steamid=76561198004438499) toggled godmode
+18:14:14 | "Foxy DJ" (steamid=76561198004438499) toggled godmode
+18:14:29 | "76561198004438499" (steamid=76561198004438499) teleported to (pos=<12105.400391, 6.275216, 3493.310059>)
+18:14:29 | "Foxy DJ": (steamid=76561198004438499) teleported to (pos=12105.4,0,3493.31)
+18:14:29 | "76561198004438499" (steamid=76561198004438499) teleported to (pos=<12105.400391, 6.275216, 3493.310059>)
+18:14:29 | "Foxy DJ": (steamid=76561198004438499) teleported to (pos=12105.4,0,3493.31)
+18:17:55 | "Foxy DJ" (steamid=76561198004438499) Spawned Item: (MMG_striker_helmet_UNUM_Purple)
+18:17:57 | "Foxy DJ" (steamid=76561198004438499) Spawned Item: (mmg_armored_helmet_visor_UP_UNUM_Purple)
+18:17:58 | "Foxy DJ" (steamid=76561198004438499) Spawned Item: (mmg_armored_helmet_visor_UNUM_Purple)
+18:18:2 | "Foxy DJ" (steamid=76561198004438499) Spawned Item: (MMG_tactical_helmet_UNUM_Purple)
+18:23:55 | "Survivor" (steamid=76561198409147443) deleted object "MMG_carrier_backpack_UNUM_Purple" (pos=<12118.289063, 6.479622, 3492.592285>)
+18:24:7 | "Survivor" (steamid=76561198409147443) deleted object "MMG_MK_V_Armor_dark_woodland" (pos=<12115.687500, 6.516576, 3493.779297>)
+18:24:55 | "Survivor" (steamid=76561198409147443) deleted object "mmg_armored_helmet_visor_UP_UNUM_Purple" (pos=<12117.792969, 6.320784, 3495.842529>)
+18:24:57 | "Survivor" (steamid=76561198409147443) deleted object "MMG_tactical_helmet_UNUM_Purple" (pos=<12118.348633, 6.317888, 3495.971924>)
+18:24:59 | "Survivor" (steamid=76561198409147443) deleted object "MMG_MK_V_Armor_UNUM_Purple" (pos=<12117.647461, 6.526785, 3494.653564>)
+18:25:8 | "Survivor" (steamid=76561198409147443) deleted object "mmg_armored_helmet_visor_UNUM_Purple" (pos=<12112.848633, 6.317531, 3495.814453>)
+18:26:5 | "Survivor" (steamid=76561198409147443) deleted object "MMG_tactical_shirt_canvas" (pos=<12118.829102, 6.270996, 3493.116943>)
+18:26:7 | "Survivor" (steamid=76561198409147443) deleted object "mmg_armored_helmet_visor_UP_UNUM_Purple" (pos=<12118.664063, 6.291861, 3493.413330>)
+18:27:56 | "Survivor" (steamid=76561198409147443) deleted object "MMG_tt_vest_UNUM_Purple" (pos=<12113.410156, 6.331802, 3499.329102>)
+18:27:58 | "Survivor" (steamid=76561198409147443) deleted object "MMG_MK_III_Armor_UNUM_Purple" (pos=<12113.161133, 6.362978, 3499.522217>)
+18:28:0 | "Survivor" (steamid=76561198409147443) deleted object "MMG_camelback_UNUM_Purple" (pos=<12113.161133, 6.951453, 3499.522217>)
+18:28:2 | "Survivor" (steamid=76561198409147443) deleted object "mmg_armored_helmet_UNUM_Purple" (pos=<12113.161133, 6.377914, 3499.522217>)
+18:28:4 | "Survivor" (steamid=76561198409147443) deleted object "MMG_Mag_Pouch_UNUM_Purple" (pos=<12113.161133, 6.321782, 3499.522217>)
+18:28:5 | "Survivor" (steamid=76561198409147443) deleted object "MMG_ammo_pouch_UNUM_Purple" (pos=<12113.161133, 6.325187, 3499.522217>)
+18:28:7 | "Survivor" (steamid=76561198409147443) deleted object "MMG_double_magpouch_UNUM_Purple" (pos=<12113.161133, 6.346322, 3499.522217>)
+18:28:8 | "Survivor" (steamid=76561198409147443) deleted object "MMG_ballistic_earcover_UNUM_Purple" (pos=<12113.161133, 6.326624, 3499.522217>)
+18:28:10 | "Survivor" (steamid=76561198409147443) deleted object "MMG_triple_magpouch_UNUM_Purple" (pos=<12113.161133, 6.320937, 3499.522217>)
+18:28:12 | "Survivor" (steamid=76561198409147443) deleted object "MMG_tactical_pouch_UNUM_Purple" (pos=<12113.161133, 6.338392, 3499.522217>)
+18:28:13 | "Survivor" (steamid=76561198409147443) deleted object "MMG_mk5_grenade_pouch_UNUM_Purple" (pos=<12113.161133, 6.336608, 3499.522217>)
+18:28:17 | "Survivor" (steamid=76561198409147443) deleted object "MMG_mk5_grenade_pouch_UNUM_Purple" (pos=<12113.161133, 6.336326, 3499.522217>)
+18:28:21 | "Survivor" (steamid=76561198409147443) deleted object "MMG_assault_pack_UNUM_Purple" (pos=<12114.185547, 6.466467, 3499.730713>)
+18:28:26 | "Survivor" (steamid=76561198409147443) deleted object "MMG_mk5_utility_pouch_UNUM_Purple" (pos=<12113.009766, 6.337809, 3498.557861>)
+18:28:28 | "Survivor" (steamid=76561198409147443) deleted object "MMG_Mag_Pouch_UNUM_Purple" (pos=<12113.009766, 6.317399, 3498.557861>)
+18:28:30 | "Survivor" (steamid=76561198409147443) deleted object "MMG_holster_pouch_UNUM_Purple" (pos=<12113.009766, 6.323666, 3498.557861>)
+18:28:32 | "Survivor" (steamid=76561198409147443) deleted object "MMG_Med_Pouch_UNUM_Purple" (pos=<12113.009766, 6.324024, 3498.557861>)
+18:28:35 | "Survivor" (steamid=76561198409147443) deleted object "MMG_ballistic_earcover_UNUM_Purple" (pos=<12113.009766, 6.320964, 3498.557861>)
+18:29:6 | "Survivor" (steamid=76561198409147443) deleted object "MMG_mmps_bag_UNUM_Purple" (pos=<12110.004883, 6.471443, 3498.315674>)
+18:29:35 | "Survivor" (steamid=76561198409147443) deleted object "mmg_chestrig_UNUM_Purple" (pos=<12108.146484, 6.335752, 3496.659912>)
+18:29:55 | "Survivor" (steamid=76561198409147443) deleted object "MMG_tactical_shirt_UNUM_Purple" (pos=<12108.437500, 6.306020, 3494.929443>)
+18:29:58 | "Survivor" (steamid=76561198409147443) deleted object "MMG_striker_helmet_UNUM_Purple" (pos=<12106.958984, 6.362284, 3495.045410>)
+18:30:13 | "Survivor" (steamid=76561198409147443) deleted object "MMG_JPC_Vest_UNUM_Purple" (pos=<12110.184570, 6.288665, 3493.450439>)
+18:30:19 | "Survivor" (steamid=76561198409147443) deleted object "MMG_tactical_shirt_UNUM_Purple" (pos=<12107.728516, 6.266881, 3492.260986>)
+18:30:35 | "Survivor" (steamid=76561198409147443) deleted object "MMG_ballistic_earcover_UNUM_Purple" (pos=<12113.009766, 6.320964, 3498.557861>)
+18:32:37 | "Survivor" (steamid=76561198409147443) deleted object "MAD_Halloween_CombatBoots_Jack" (pos=<12097.225586, 6.275565, 3496.458740>)
+18:38:17 | "76561198004438499" (steamid=76561198004438499) teleported to (pos=<13447.299805, 5.980602, 6144.089844>)
+18:38:17 | "Foxy DJ": (steamid=76561198004438499) teleported to (pos=13447.3,0,6144.09)
+18:47:21 | "76561198004438499" (steamid=76561198004438499) teleported to (pos=<8192.549805, 6.197031, 3099.379883>)
+18:47:21 | "Foxy DJ": (steamid=76561198004438499) teleported to (pos=8192.55,0,3099.38)
+19:11:16 | "76561198004438499" (steamid=76561198004438499) teleported to (pos=<6680.790039, 3.387439, 2591.229980>)
+19:11:16 | "Foxy DJ": (steamid=76561198004438499) teleported to (pos=6680.79,0,2591.23)
+19:11:16 | "76561198004438499" (steamid=76561198004438499) teleported to (pos=<6680.790039, 3.387439, 2591.229980>)
+19:11:16 | "Foxy DJ": (steamid=76561198004438499) teleported to (pos=6680.79,0,2591.23)
+19:14:53 | "76561198004438499" (steamid=76561198004438499) teleported to (pos=<2719.520020, 205.367310, 5317.859863>)
+19:14:53 | "Foxy DJ": (steamid=76561198004438499) teleported to (pos=2719.52,0,5317.86)
+19:58:52 | Player "Foxy DJ" (steamId=76561198004438499) initiated disconnect process...
+19:58:54 | Player "Foxy DJ" (steamId=76561198004438499) disconnected early from server (EXIT NOW).
+19:58:57 | Player "Foxy DJ" (steamId=76561198004438499) disconnected from server.
+20:23:6 | Player "Survivor" (steamId=76561198409147443) initiated disconnect process...

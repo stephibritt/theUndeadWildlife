@@ -1,0 +1,312 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2023-11-22_5-33-20
+====================================================================================
+5:33:20 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+5:33:20 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+5:33:20 | [PermissionManager] Perm (FreeCamera) has been registered!
+5:33:20 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+5:33:20 | [PermissionManager] Perm (MenuItemManager) has been registered!
+5:33:20 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+5:33:20 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+5:33:20 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+5:33:20 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+5:33:20 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+5:33:20 | [PermissionManager] Perm (MenuServerManager) has been registered!
+5:33:20 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+5:33:20 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+5:33:20 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+5:33:20 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+5:33:20 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+5:33:20 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+5:33:20 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+5:33:20 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+5:33:20 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+5:33:20 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+5:33:20 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+5:33:20 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+5:33:20 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+5:33:20 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+5:33:20 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+5:33:20 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+5:33:20 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+5:33:20 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+5:33:20 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+5:33:20 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+5:33:20 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+5:33:20 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+5:33:20 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+5:33:20 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+5:33:20 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+5:33:20 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+5:33:20 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+5:33:20 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+5:33:20 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+5:33:20 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+5:33:20 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+5:33:20 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+5:33:20 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+5:33:20 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+5:33:20 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+5:33:20 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+5:33:20 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+5:33:20 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+5:33:20 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+5:33:20 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+5:33:20 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+5:33:20 | [PermissionManager] Perm (MenuBansManager) has been registered!
+5:33:20 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+5:33:20 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+5:33:20 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+5:33:20 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+5:33:20 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+5:33:20 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+5:33:20 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+5:33:20 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+5:33:20 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+5:33:20 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+5:33:20 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+5:33:20 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+5:33:20 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+5:33:20 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+5:33:20 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+5:33:20 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+5:33:20 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+5:33:20 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+5:33:20 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+5:33:20 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+5:33:20 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+5:33:20 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+5:33:20 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+5:33:20 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+5:33:20 | [PermissionManager] Adding Super Admin (76561198004438499)
+5:33:20 | [PermissionManager] Adding Super Admin (76561198409147443)
+5:33:20 | [PermissionManager] Adding Super Admin (76561198958650919)
+5:33:20 | [PermissionManager] Loaded UserGroups.json
+5:33:20 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+5:33:20 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+5:33:20 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+5:33:20 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+5:33:20 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+5:33:20 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+5:33:20 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+5:33:20 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+5:33:20 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+5:33:20 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+5:33:20 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+5:33:20 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+5:33:20 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+5:33:20 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+5:33:20 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+5:33:20 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+5:33:20 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+5:33:20 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+5:33:20 | Building Sets Loaded: 0
+5:33:20 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+5:33:20 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+5:33:49 | Player "Foxy DJ" (steamId=76561198004438499) connected to server!
+5:33:58 | Player "Prometheus" (steamId=76561198958650919) connected to server!
+5:34:26 | "Prometheus" (steamid=76561198958650919) toggled godmode
+5:34:50 | "Prometheus" (steamid=76561198958650919) toggled freecam
+5:34:57 | "Prometheus" (steamid=76561198958650919) teleported to crosshair (pos=<4413.644531, 339.040009, 9737.282227>)
+5:34:58 | "Prometheus" (steamid=76561198958650919) toggled freecam
+5:35:6 | "Foxy DJ" (steamid=76561198004438499) toggled godmode
+5:35:56 | "Prometheus" (steamid=76561198958650919) gave unlimited ammo to (steamid=76561198958650919)
+5:36:9 | "Prometheus" (steamid=76561198958650919) Spawned Item: (Ammo_556x45)
+5:37:35 | "76561198004438499" (steamid=76561198004438499) teleported to (pos=<1678.430054, 451.730011, 14334.799805>)
+5:37:35 | "Foxy DJ": (steamid=76561198004438499) teleported to (pos=1678.43,0,14334.8)
+5:38:2 | "Prometheus" (steamid=76561198958650919) toggled freecam
+5:38:16 | "Prometheus" (steamid=76561198958650919) teleported to crosshair (pos=<4186.502441, 338.390015, 11014.069336>)
+5:38:29 | "Prometheus" (steamid=76561198958650919) teleported to crosshair (pos=<4202.049805, 340.998688, 11043.026367>)
+5:38:31 | "Prometheus" (steamid=76561198958650919) toggled freecam
+5:39:54 | "76561198004438499" (steamid=76561198004438499) teleported to (pos=<1515.020020, 439.010010, 13594.200195>)
+5:39:54 | "Foxy DJ": (steamid=76561198004438499) teleported to (pos=1515.02,0,13594.2)
+5:42:31 | "76561198004438499" (steamid=76561198004438499) teleported to (pos=<7914.589844, 343.377289, 14697.700195>)
+5:42:31 | "Foxy DJ": (steamid=76561198004438499) teleported to (pos=7914.59,0,14697.7)
+5:42:31 | "76561198004438499" (steamid=76561198004438499) teleported to (pos=<7914.589844, 343.377289, 14697.700195>)
+5:42:31 | "Foxy DJ": (steamid=76561198004438499) teleported to (pos=7914.59,0,14697.7)
+5:48:14 | "76561198004438499" (steamid=76561198004438499) teleported to (pos=<1515.599976, 439.043243, 13597.799805>)
+5:48:14 | "Foxy DJ": (steamid=76561198004438499) teleported to (pos=1515.6,0,13597.8)
+5:48:14 | "76561198004438499" (steamid=76561198004438499) teleported to (pos=<1515.599976, 439.043243, 13597.799805>)
+5:48:14 | "Foxy DJ": (steamid=76561198004438499) teleported to (pos=1515.6,0,13597.8)
+5:50:51 | "76561198004438499" (steamid=76561198004438499) teleported to (pos=<1678.949951, 451.730011, 14339.500000>)
+5:50:51 | "Foxy DJ": (steamid=76561198004438499) teleported to (pos=1678.95,0,14339.5)
+5:51:39 | "Prometheus" (steamid=76561198958650919) teleported to crosshair (pos=<4201.941406, 338.410004, 11033.254883>)
+5:51:43 | "Prometheus" (steamid=76561198958650919) toggled freecam
+5:51:48 | "Prometheus" (steamid=76561198958650919) teleported to crosshair (pos=<4134.259277, 347.334198, 10432.009766>)
+5:52:2 | "Prometheus" (steamid=76561198958650919) teleported to crosshair (pos=<4416.740723, 339.020020, 10243.431641>)
+5:52:4 | "Prometheus" (steamid=76561198958650919) toggled freecam
+5:52:17 | "76561198004438499" (steamid=76561198004438499) teleported to (pos=<4488.129883, 339.024170, 10159.599609>)
+5:52:17 | "Foxy DJ": (steamid=76561198004438499) teleported to (pos=4488.13,0,10159.6)
+5:52:26 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4480.684570, 339.039948, 10208.127930>)
+5:52:27 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4462.751953, 338.991547, 10259.034180>)
+5:52:27 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4445.631348, 338.853760, 10315.297852>)
+5:52:29 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4450.035645, 339.535339, 10441.494141>)
+5:52:30 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4446.751953, 339.201233, 10477.655273>)
+5:52:31 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4435.782227, 339.004852, 10524.316406>)
+5:52:31 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4426.689941, 339.194977, 10561.554688>)
+5:52:32 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4416.511230, 339.374420, 10599.331055>)
+5:52:32 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4404.707520, 339.298889, 10642.840820>)
+5:52:33 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4383.099609, 338.999969, 10696.153320>)
+5:52:33 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4359.620605, 339.031494, 10749.676758>)
+5:52:34 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4280.255859, 339.000122, 10905.511719>)
+5:52:35 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4220.046875, 339.900238, 11005.043945>)
+5:52:46 | "76561198004438499" (steamid=76561198004438499) teleported to (pos=<4206.379883, 338.395752, 11021.799805>)
+5:52:46 | "Foxy DJ": (steamid=76561198004438499) teleported to (pos=4206.38,0,11021.8)
+5:52:49 | "76561198004438499" (steamid=76561198004438499) teleported to (pos=<4206.379883, 338.395752, 11021.799805>)
+5:52:49 | "Foxy DJ": (steamid=76561198004438499) teleported to (pos=4206.38,0,11021.8)
+5:52:50 | "76561198004438499" (steamid=76561198004438499) teleported to (pos=<4206.379883, 338.395752, 11021.799805>)
+5:52:50 | "Foxy DJ": (steamid=76561198004438499) teleported to (pos=4206.38,0,11021.8)
+5:52:51 | "76561198004438499" (steamid=76561198004438499) teleported to (pos=<4201.339844, 338.397186, 11004.599609>)
+5:52:51 | "Foxy DJ": (steamid=76561198004438499) teleported to (pos=4201.34,0,11004.6)
+5:52:51 | "76561198004438499" (steamid=76561198004438499) teleported to (pos=<4201.339844, 338.397186, 11004.599609>)
+5:52:51 | "Foxy DJ": (steamid=76561198004438499) teleported to (pos=4201.34,0,11004.6)
+5:52:57 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4201.013672, 321.093018, 11004.294922>)
+5:52:57 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4199.936035, 311.431000, 11004.770508>)
+5:52:57 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4200.275879, 312.894470, 11004.098633>)
+5:52:57 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4200.456543, 302.836304, 11003.800781>)
+5:52:58 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4199.059082, 292.118164, 11004.489258>)
+5:52:58 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4199.654785, 298.745544, 11003.679688>)
+5:52:58 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4198.164551, 273.344849, 11004.375000>)
+5:52:59 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4198.930664, 243.987640, 11002.570313>)
+5:53:0 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4198.238770, 228.840286, 11002.362305>)
+5:53:0 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4198.586914, 216.995682, 11001.987305>)
+5:53:0 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4197.759277, 216.308929, 11001.916992>)
+5:53:0 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4197.827637, 206.649399, 11001.841797>)
+5:53:1 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4196.860840, 194.586334, 11001.928711>)
+5:53:1 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4197.470703, 187.685028, 11001.247070>)
+5:53:1 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4196.498047, 171.812958, 11001.335938>)
+5:53:1 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4196.639160, 161.073334, 11001.183594>)
+5:53:1 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4195.352539, 145.637665, 11001.621094>)
+5:53:2 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4195.922852, 148.416458, 11000.987305>)
+5:53:2 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4196.110840, 149.113068, 11000.785156>)
+5:53:2 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4194.826172, 141.789978, 11001.219727>)
+5:53:2 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4195.363281, 145.246643, 11000.625000>)
+5:53:2 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4195.538086, 143.368195, 11000.442383>)
+5:53:2 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4194.289551, 140.287903, 11000.906250>)
+5:53:2 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4194.408203, 135.080048, 11000.717773>)
+5:53:2 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4194.875977, 140.107529, 11000.195313>)
+5:53:3 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4195.050781, 138.132996, 11000.004883>)
+5:53:3 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4193.797852, 134.103455, 11000.442383>)
+5:53:3 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4193.988281, 123.728477, 11000.197266>)
+5:53:7 | "76561198004438499" (steamid=76561198004438499) teleported to (pos=<4213.439941, 338.410004, 10974.400391>)
+5:53:7 | "Foxy DJ": (steamid=76561198004438499) teleported to (pos=4213.44,0,10974.4)
+5:53:8 | "76561198004438499" (steamid=76561198004438499) teleported to (pos=<4213.439941, 338.410004, 10974.400391>)
+5:53:8 | "Foxy DJ": (steamid=76561198004438499) teleported to (pos=4213.44,0,10974.4)
+5:53:25 | "Prometheus" (steamid=76561198958650919) Spawned Item: (StunBaton)
+5:54:7 | "Prometheus" (steamid=76561198958650919) Spawned Item: (M4A1)
+5:54:22 | "Prometheus" (steamid=76561198958650919) toggled freecam
+5:54:26 | "Prometheus" (steamid=76561198958650919) teleported to crosshair (pos=<4721.368164, 339.000000, 10336.872070>)
+5:55:20 | "Prometheus" (steamid=76561198958650919) teleported to crosshair (pos=<5326.241211, 345.895416, 9783.581055>)
+5:55:33 | "Prometheus" (steamid=76561198958650919) teleported to crosshair (pos=<5369.721191, 332.756378, 9896.990234>)
+5:55:35 | "Prometheus" (steamid=76561198958650919) toggled freecam
+5:56:18 | "Prometheus" (steamid=76561198958650919) toggled freecam
+5:56:43 | "Prometheus" (steamid=76561198958650919) teleported to crosshair (pos=<5324.650391, 342.448120, 9798.351563>)
+5:56:43 | "Prometheus" (steamid=76561198958650919) toggled freecam
+5:57:0 | "76561198958650919" (steamid=76561198958650919) teleported to (pos=<1567.300049, 452.769989, 14055.400391>)
+5:57:0 | "Prometheus": (steamid=76561198958650919) teleported to (pos=1567.3,0,14055.4)
+5:57:7 | "Prometheus" (steamid=76561198958650919) toggled freecam
+5:57:17 | "Prometheus" (steamid=76561198958650919) teleported to crosshair (pos=<1540.594360, 452.973053, 14087.501953>)
+5:57:17 | "Prometheus" (steamid=76561198958650919) toggled freecam
+5:57:28 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4263.849609, 338.390015, 11039.077148>)
+5:57:29 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4275.882813, 338.351959, 11026.447266>)
+5:57:30 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4289.071289, 338.698883, 11009.576172>)
+5:57:30 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4301.259277, 340.205139, 10993.348633>)
+5:57:31 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4391.237305, 338.700806, 10889.929688>)
+5:57:40 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4401.352539, 338.690002, 10885.861328>)
+5:57:40 | "Prometheus" (steamid=76561198958650919) toggled freecam
+5:57:44 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4373.941895, 338.697540, 10906.039063>)
+5:57:45 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4365.938965, 338.707031, 10930.430664>)
+5:57:45 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4358.661621, 338.700562, 10949.487305>)
+5:57:51 | "Prometheus" (steamid=76561198958650919) teleported to crosshair (pos=<1799.396118, 436.620178, 13813.900391>)
+5:58:9 | "Prometheus" (steamid=76561198958650919) teleported to crosshair (pos=<1969.469116, 450.094666, 13821.155273>)
+5:58:12 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4385.277344, 338.546112, 10974.488281>)
+5:58:14 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4398.124023, 338.562469, 10959.762695>)
+5:58:16 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4408.146484, 338.569458, 10967.632813>)
+5:58:24 | "Prometheus" (steamid=76561198958650919) toggled freecam
+5:58:28 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4420.636230, 338.605499, 10960.880859>)
+5:58:29 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4429.420410, 338.723938, 10955.426758>)
+5:58:34 | "76561198958650919" (steamid=76561198958650919) teleported to (pos=<3665.860107, 362.594360, 14890.400391>)
+5:58:34 | "Prometheus": (steamid=76561198958650919) teleported to (pos=3665.86,0,14890.4)
+5:59:14 | "Prometheus" (steamid=76561198958650919) toggled freecam
+5:59:24 | "Prometheus" (steamid=76561198958650919) teleported to crosshair (pos=<3332.423340, 324.517426, 15160.957031>)
+5:59:25 | "Prometheus" (steamid=76561198958650919) toggled freecam
+6:0:8 | "Prometheus": (steamid=76561198958650919) teleported to (pos=NEAF)
+6:0:11 | "76561198958650919" (steamid=76561198958650919) teleported to (pos=<12053.299805, 139.808014, 12520.599609>)
+6:0:11 | "Prometheus": (steamid=76561198958650919) teleported to (pos=12053.3,0,12520.6)
+6:0:13 | "Prometheus" (steamid=76561198958650919) toggled freecam
+6:0:18 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4426.564453, 338.985077, 10761.086914>)
+6:0:18 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4430.269531, 339.000977, 10750.485352>)
+6:0:19 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4436.532715, 339.000031, 10737.947266>)
+6:0:20 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4444.802734, 339.000000, 10723.841797>)
+6:0:23 | "Prometheus" (steamid=76561198958650919) teleported to crosshair (pos=<12450.817383, 140.459808, 12532.321289>)
+6:0:31 | "Prometheus" (steamid=76561198958650919) teleported to crosshair (pos=<11868.183594, 144.129883, 12466.195313>)
+6:0:31 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4464.212891, 339.004578, 10709.202148>)
+6:0:32 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4479.212402, 339.407227, 10702.540039>)
+6:0:33 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4498.408203, 339.019989, 10695.338867>)
+6:0:48 | "Prometheus" (steamid=76561198958650919) teleported to crosshair (pos=<10959.507813, 224.112930, 13399.603516>)
+6:1:13 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4612.857910, 339.000000, 10629.982422>)
+6:1:14 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4620.694336, 339.003723, 10619.311523>)
+6:1:15 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4627.096680, 339.028900, 10605.791992>)
+6:1:16 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4628.706055, 341.356354, 10578.710938>)
+6:1:19 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4622.678223, 340.510986, 10511.852539>)
+6:1:23 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4626.442871, 340.043488, 10510.109375>)
+6:1:26 | "Prometheus" (steamid=76561198958650919) teleported to crosshair (pos=<10929.658203, 220.129608, 13408.466797>)
+6:1:27 | "Prometheus" (steamid=76561198958650919) toggled freecam
+6:1:36 | "Prometheus" (steamid=76561198958650919) toggled freecam
+6:1:41 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4663.812988, 339.000000, 10513.931641>)
+6:1:42 | "Prometheus" (steamid=76561198958650919) teleported to crosshair (pos=<10934.980469, 222.912323, 13407.791016>)
+6:1:42 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4682.562012, 339.004669, 10522.569336>)
+6:1:43 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4702.265625, 339.149994, 10536.556641>)
+6:1:43 | "Prometheus" (steamid=76561198958650919) toggled freecam
+6:1:44 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4721.554199, 339.149963, 10547.241211>)
+6:2:2 | "Prometheus" (steamid=76561198958650919) toggled freecam
+6:2:5 | "Prometheus" (steamid=76561198958650919) teleported to crosshair (pos=<10956.316406, 223.953354, 13400.334961>)
+6:2:6 | "Prometheus" (steamid=76561198958650919) toggled freecam
+6:3:1 | "76561198958650919" (steamid=76561198958650919) teleported to (pos=<768.153992, 6.095795, 1882.260010>)
+6:3:1 | "Prometheus": (steamid=76561198958650919) teleported to (pos=768.154,0,1882.26)
+6:3:27 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4834.423828, 339.051086, 10442.082031>)
+6:3:28 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4806.920898, 339.040009, 10415.190430>)
+6:3:29 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4813.299805, 339.040009, 10416.548828>)
+6:3:30 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4832.500977, 339.040009, 10417.543945>)
+6:3:31 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4851.973633, 339.040039, 10417.160156>)
+6:3:32 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4870.399414, 339.101593, 10416.714844>)
+6:3:33 | "Foxy DJ" (steamid=76561198004438499) teleported to crosshair (pos=<4884.708008, 338.980469, 10416.129883>)
+6:6:10 | Player "Foxy DJ" (steamId=76561198004438499) initiated disconnect process...
+6:6:12 | Player "Foxy DJ" (steamId=76561198004438499) disconnected early from server (EXIT NOW).
+6:6:15 | Player "Foxy DJ" (steamId=76561198004438499) disconnected from server.
+6:6:35 | "Prometheus": (steamid=76561198958650919) teleported to (pos=NWAF)
+6:6:40 | "76561198958650919" (steamid=76561198958650919) teleported to (pos=<4765.870117, 339.165314, 10487.599609>)
+6:6:40 | "Prometheus": (steamid=76561198958650919) teleported to (pos=4765.87,0,10487.6)
+6:6:42 | "76561198958650919" (steamid=76561198958650919) teleported to (pos=<4730.669922, 339.000000, 10338.299805>)
+6:6:42 | "Prometheus": (steamid=76561198958650919) teleported to (pos=4730.67,0,10338.3)
+6:7:1 | "Prometheus" (steamid=76561198958650919) toggled freecam
+6:7:42 | "Prometheus" (steamid=76561198958650919) teleported to crosshair (pos=<4203.309082, 340.998688, 11043.503906>)
+6:7:43 | "Prometheus" (steamid=76561198958650919) toggled freecam
+6:9:18 | "Prometheus" (steamid=76561198958650919) Spawned Item: (BO_FG42M)
+6:9:19 | "Prometheus" (steamid=76561198958650919) Spawned Item: (BO_Mag_FG42_20rnd)
+6:11:22 | "Prometheus" (steamid=76561198958650919) Spawned Item: (BO_MG42)
+6:11:30 | "Prometheus" (steamid=76561198958650919) Spawned Item: (BO_Mag_MG42_50rnd)
+6:12:43 | "Prometheus" (steamid=76561198958650919) Spawned Item: (AssaultBag_Black)
+6:13:40 | "Prometheus" (steamid=76561198958650919) Spawned Item: (SmershBag)
+6:13:43 | "Prometheus" (steamid=76561198958650919) Spawned Item: (TaloonBag_Orange)
+6:13:46 | "Prometheus" (steamid=76561198958650919) Spawned Item: (MountainBag_Blue)
+6:14:20 | "Prometheus" (steamid=76561198958650919) deleted object "DryBag_Black" (pos=<4170.529785, 338.538300, 11025.186523>)
+6:14:21 | "Prometheus" (steamid=76561198958650919) deleted object "AssaultBag_Black" (pos=<4171.242676, 338.899506, 11025.112305>)
+6:14:22 | "Prometheus" (steamid=76561198958650919) deleted object "TaloonBag_Orange" (pos=<4171.244629, 338.873199, 11025.112305>)
+6:14:24 | "Prometheus" (steamid=76561198958650919) deleted object "SmershBag" (pos=<4171.242676, 338.680542, 11025.112305>)
+6:15:3 | "Prometheus" (steamid=76561198958650919) deleted object "BO_M249" (pos=<4198.380371, 338.515869, 11029.766602>)
+6:15:29 | Player "Prometheus" (steamId=76561198958650919) initiated disconnect process...
+6:15:32 | Player "Prometheus" (steamId=76561198958650919) aborted logout process [canceledLogout]
+6:15:32 | Player "Prometheus" (steamId=76561198958650919) aborted logout process [canceledLogout]
+6:15:33 | "Prometheus" (steamid=76561198958650919) toggled freecam
+6:15:40 | "Prometheus" (steamid=76561198958650919) teleported to crosshair (pos=<4718.720703, 338.996521, 10345.113281>)
+6:15:53 | "Prometheus" (steamid=76561198958650919) toggled freecam
+6:16:1 | "Prometheus" (steamid=76561198958650919) toggled freecam
+6:16:4 | "Prometheus" (steamid=76561198958650919) teleported to crosshair (pos=<4420.491699, 338.739105, 10229.479492>)
+6:16:18 | "Prometheus" (steamid=76561198958650919) teleported to crosshair (pos=<4540.317871, 352.957611, 9613.620117>)
+6:17:28 | "Prometheus" (steamid=76561198958650919) teleported to crosshair (pos=<5044.669434, 338.999969, 9717.585938>)
+6:17:57 | "Prometheus" (steamid=76561198958650919) teleported to crosshair (pos=<5035.050781, 339.228424, 9847.534180>)
+6:18:4 | "Prometheus" (steamid=76561198958650919) teleported to crosshair (pos=<5034.724609, 342.683807, 9834.357422>)
+6:18:5 | "Prometheus" (steamid=76561198958650919) toggled freecam
+6:18:9 | Player "Prometheus" (steamId=76561198958650919) initiated disconnect process...
+6:18:14 | Player "Prometheus" (steamId=76561198958650919) disconnected from server.

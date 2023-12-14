@@ -1,0 +1,179 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2023-11-18_7-32-50
+====================================================================================
+7:32:50 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+7:32:50 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+7:32:50 | [PermissionManager] Perm (FreeCamera) has been registered!
+7:32:50 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+7:32:50 | [PermissionManager] Perm (MenuItemManager) has been registered!
+7:32:50 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+7:32:50 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+7:32:50 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+7:32:50 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+7:32:50 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+7:32:50 | [PermissionManager] Perm (MenuServerManager) has been registered!
+7:32:50 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+7:32:50 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+7:32:50 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+7:32:50 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+7:32:50 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+7:32:50 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+7:32:50 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+7:32:50 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+7:32:50 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+7:32:50 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+7:32:50 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+7:32:50 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+7:32:50 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+7:32:50 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+7:32:50 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+7:32:50 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+7:32:50 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+7:32:50 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+7:32:50 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+7:32:50 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+7:32:50 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+7:32:50 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+7:32:50 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+7:32:50 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+7:32:50 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+7:32:50 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+7:32:50 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+7:32:50 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+7:32:50 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+7:32:50 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+7:32:50 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+7:32:50 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+7:32:50 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+7:32:50 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+7:32:50 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+7:32:50 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+7:32:50 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+7:32:50 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+7:32:50 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+7:32:50 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+7:32:50 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+7:32:50 | [PermissionManager] Perm (MenuBansManager) has been registered!
+7:32:50 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+7:32:50 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+7:32:50 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+7:32:50 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+7:32:50 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+7:32:50 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+7:32:50 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+7:32:50 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+7:32:50 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+7:32:50 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+7:32:50 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+7:32:50 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+7:32:50 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+7:32:50 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+7:32:50 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+7:32:50 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+7:32:50 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+7:32:50 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+7:32:50 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+7:32:50 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+7:32:50 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+7:32:50 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+7:32:50 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+7:32:50 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+7:32:50 | [PermissionManager] Adding Super Admin (76561198004438499)
+7:32:50 | [PermissionManager] Adding Super Admin (76561198409147443)
+7:32:50 | [PermissionManager] Adding Super Admin (76561198958650919)
+7:32:50 | [PermissionManager] Loaded UserGroups.json
+7:32:50 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+7:32:50 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+7:32:50 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+7:32:50 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+7:32:50 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+7:32:50 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+7:32:50 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+7:32:50 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+7:32:50 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+7:32:50 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+7:32:50 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+7:32:50 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+7:32:50 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+7:32:50 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+7:32:50 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+7:32:50 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+7:32:50 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+7:32:50 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+7:32:50 | Building Sets Loaded: 0
+7:32:50 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+7:32:50 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+7:35:56 | Player "Prometheus" (steamId=76561198958650919) connected to server!
+7:38:47 | Player "Prometheus" (steamId=76561198958650919) initiated disconnect process...
+7:38:52 | Player "Prometheus" (steamId=76561198958650919) disconnected from server.
+7:53:21 | Player "Prometheus" (steamId=76561198958650919) connected to server!
+7:54:15 | "Prometheus" (steamid=76561198958650919) just updated a health stat on (steamid=76561198958650919)
+7:54:15 | "Prometheus" (steamid=76561198958650919) just updated a health stat on (steamid=76561198958650919)
+7:54:24 | "Prometheus" (steamid=76561198958650919) toggled freecam
+7:56:14 | "Prometheus" (steamid=76561198958650919) teleported to crosshair (pos=<4026.996338, 375.561920, 11836.717773>)
+7:56:19 | "Prometheus" (steamid=76561198958650919) toggled freecam
+7:59:1 | "Prometheus" (steamid=76561198958650919) Spawned Item: (BO_M240B)
+7:59:6 | "Prometheus" (steamid=76561198958650919) Spawned Item: (BO_Mag_M240B_50rnd)
+8:0:8 | "Prometheus" (steamid=76561198958650919) Spawned Item: (AssaultBag_Ttsko)
+8:0:9 | "Prometheus" (steamid=76561198958650919) Spawned Item: (TTsKOJacket_Camo)
+8:0:9 | "Prometheus" (steamid=76561198958650919) Spawned Item: (TTSKOBoots)
+8:0:10 | "Prometheus" (steamid=76561198958650919) Spawned Item: (TTSKOPants)
+8:0:45 | "Prometheus" (steamid=76561198958650919) deleted object "ParamedicJacket_Crimson" (pos=<4019.191162, 375.839478, 11802.177734>)
+8:0:47 | "Prometheus" (steamid=76561198958650919) deleted object "CanvasPantsMidi_Grey" (pos=<4019.191162, 375.839478, 11802.177734>)
+8:1:13 | "Prometheus" (steamid=76561198958650919) Spawned Item: (MVS_Belt_Multicam)
+8:1:15 | "Prometheus" (steamid=76561198958650919) Spawned Item: (MilitaryBelt)
+8:1:47 | "Prometheus" (steamid=76561198958650919) Spawned Item: (MVS_Canteen_Tan)
+8:1:54 | "Prometheus" (steamid=76561198958650919) Spawned Item: (MVS_Combat_Vest_Heavy_Multicam)
+8:2:2 | "Prometheus" (steamid=76561198958650919) Spawned Item: (MVS_Magazine_Pouch_Multicam)
+8:2:3 | "Prometheus" (steamid=76561198958650919) Spawned Item: (MVS_Magazine_Pouch_Multicam)
+8:2:3 | "Prometheus" (steamid=76561198958650919) Spawned Item: (MVS_Magazine_Pouch_Multicam)
+8:2:11 | "Prometheus" (steamid=76561198958650919) Spawned Item: (MVS_Admin_Pouch_Multicam)
+8:2:16 | "Prometheus" (steamid=76561198958650919) Spawned Item: (MVS_Heavy_Pouch_Multicam)
+8:2:19 | "Prometheus" (steamid=76561198958650919) Spawned Item: (MVS_Utility_Pouch_Multicam)
+8:2:25 | "Prometheus" (steamid=76561198958650919) Spawned Item: (MVS_Helmet_01_Multicam)
+8:2:30 | "Prometheus" (steamid=76561198958650919) Spawned Item: (MVS_ArmoredHelmet_Multicam)
+8:2:40 | "Prometheus" (steamid=76561198958650919) Spawned Item: (MVS_Rucksack_Multicam)
+8:4:9 | Player "Foxy DJ" (steamId=76561198004438499) connected to server!
+8:4:15 | "Prometheus" (steamid=76561198958650919) deleted object "Canteen" (pos=<4018.266602, 375.971436, 11800.656250>)
+8:4:16 | "Prometheus" (steamid=76561198958650919) deleted object "AssaultBag_Ttsko" (pos=<4018.266602, 375.957123, 11800.656250>)
+8:4:17 | "Prometheus" (steamid=76561198958650919) deleted object "Land_Mil_Barracks1" (pos=<4017.932129, 377.783081, 11805.979492>)
+8:4:18 | "Prometheus" (steamid=76561198958650919) deleted object "MilitaryBelt" (pos=<4018.266602, 375.846039, 11800.656250>)
+8:4:20 | "Prometheus" (steamid=76561198958650919) deleted object "Land_Mil_Barracks1" (pos=<4017.932129, 377.783081, 11805.979492>)
+8:4:22 | "Prometheus" (steamid=76561198958650919) deleted object "Land_Mil_Barracks1" (pos=<4017.932129, 377.783081, 11805.979492>)
+8:4:38 | "Prometheus" (steamid=76561198958650919) deleted objects using ESP
+8:4:41 | "Prometheus" (steamid=76561198958650919) deleted objects using ESP
+8:4:46 | "Prometheus" (steamid=76561198958650919) deleted objects using ESP
+8:5:49 | "Prometheus" (steamid=76561198958650919) Spawned Item: (TacticalGloves_Black)
+8:7:6 | "Prometheus" (steamid=76561198958650919) Spawned Item: (BO_PPSh)
+8:7:7 | "Prometheus" (steamid=76561198958650919) Spawned Item: (BO_Mag_PPSh_71rnd)
+8:7:21 | "Prometheus" (steamid=76561198958650919) teleported to crosshair (pos=<13422.102539, 3.825134, 6573.616211>)
+8:7:24 | "Prometheus" (steamid=76561198958650919) teleported to crosshair (pos=<13390.715820, 4.276243, 6597.562988>)
+8:7:33 | "Prometheus" (steamid=76561198958650919) teleported to crosshair (pos=<13444.395508, 3.535577, 6502.386230>)
+8:10:4 | "Prometheus" (steamid=76561198958650919) Spawned Item: (ZmbM_VillagerOld_White)
+8:10:7 | "Prometheus" (steamid=76561198958650919) Spawned Item: (ZmbM_VillagerOld_White)
+8:10:30 | [WeatherManager] Send Data Count is 0
+8:10:49 | Player "Foxy DJ" (steamId=76561198004438499) initiated disconnect process...
+8:10:51 | Player "Foxy DJ" (steamId=76561198004438499) disconnected early from server (EXIT NOW).
+8:10:53 | "Prometheus" (steamid=76561198958650919) deleted object "ZmbM_JoggerSkinny_Red" (pos=<13447.076172, 3.676718, 6497.733398>)
+8:10:56 | "Prometheus" (steamid=76561198958650919) deleted object "ZmbM_VillagerOld_White" (pos=<13450.860352, 3.743198, 6494.900879>)
+8:11:2 | Player "Foxy DJ" (steamId=76561198004438499) connected to server!
+8:11:27 | Player "Foxy DJ" (steamId=76561198004438499) initiated disconnect process...
+8:11:28 | Player "Foxy DJ" (steamId=76561198004438499) disconnected early from server (EXIT NOW).
+8:11:29 | "Prometheus" (steamid=76561198958650919) deleted object "BO_PPSh" (pos=<13446.913086, 3.618368, 6503.023926>)
+8:11:31 | "Prometheus" (steamid=76561198958650919) toggled godmode
+8:11:33 | "Prometheus" (steamid=76561198958650919) /heal used on: "Prometheus" (steamid=76561198958650919)
+8:12:30 | [WeatherManager] Send Data Count is 0
+8:12:47 | "Prometheus" (steamid=76561198958650919) /heal used on: "Prometheus" (steamid=76561198958650919)
+8:12:56 | "Prometheus" (steamid=76561198958650919) just updated a health stat on (steamid=76561198958650919)
+8:12:57 | "Prometheus" (steamid=76561198958650919) just updated a health stat on (steamid=76561198958650919)
+8:12:57 | "Prometheus" (steamid=76561198958650919) just updated a health stat on (steamid=76561198958650919)
+8:12:58 | "Prometheus" (steamid=76561198958650919) just updated a health stat on (steamid=76561198958650919)
+8:12:58 | "Prometheus" (steamid=76561198958650919) just updated a health stat on (steamid=76561198958650919)
+8:13:7 | "Prometheus" (steamid=76561198958650919) toggled freecam
+8:13:19 | "Prometheus" (steamid=76561198958650919) toggled freecam
+8:13:25 | Player "Foxy DJ" (steamId=76561198004438499) connected to server!
+8:14:48 | Player "Prometheus" (steamId=76561198958650919) initiated disconnect process...
+8:14:50 | Player "Prometheus" (steamId=76561198958650919) disconnected early from server (EXIT NOW).
+8:14:53 | Player "Prometheus" (steamId=76561198958650919) disconnected from server.
+8:14:57 | Player "Foxy DJ" (steamId=76561198004438499) initiated disconnect process...
+8:14:59 | Player "Foxy DJ" (steamId=76561198004438499) disconnected early from server (EXIT NOW).
